@@ -1,1 +1,23 @@
 
+.parent{
+    background-color:#7CFC00;
+    padding: 20px;
+}
+
+.child {
+  padding: 15px;
+  margin: 10px 0;
+  color: black;
+}
+
+.child1 {
+  background-color: #CD5C5C;
+  padding: 10px;
+  border-radius: 8px;
+}
+
+.child2 {
+  background-color: #FFD700;
+  padding: 10px;
+  border-radius: 8px;
+}
